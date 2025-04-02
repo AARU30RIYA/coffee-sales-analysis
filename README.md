@@ -67,9 +67,6 @@ Used coffee-themed colors for a better aesthetic
 
 Applied filters for better insights
 
-📸 Dashboard Preview
-(Attach screenshots of your Power BI dashboard here)
-
 📂 Project Files
 📄 coffee_sales_analysis.pbix → Power BI dashboard file
 📄 cleaned_coffee_sales.csv → Cleaned dataset
